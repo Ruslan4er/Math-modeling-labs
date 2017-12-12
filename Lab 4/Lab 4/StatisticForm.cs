@@ -24,7 +24,7 @@ namespace Lab_4
         private int victoryDoor;
         private int firstChoosenDoor;
         private int choosenDoor;
-        private int countDoors = 3;
+        private int countDoors = 5;
         private int attemptsCount = 10000;
 
         // Генерация и заполнение дверей.
@@ -53,9 +53,15 @@ namespace Lab_4
         {
             if (swap)
             {
-                for (var i = 0; i < countDoors; i++)
-                    if ((!doorsList[i].IsOpen) && (i != firstChoosenDoor))
-                        choosenDoor = i;
+                while (true)
+                {
+                    var newDoor = rnd.Next(0, countDoors);
+                    if ((!doorsList[newDoor].IsOpen) && (newDoor != firstChoosenDoor))
+                    {
+                        choosenDoor = newDoor;
+                        break;
+                    }
+                }
             }
             else
                 choosenDoor = firstChoosenDoor;
@@ -76,7 +82,7 @@ namespace Lab_4
             else
                 resultWithoutSwapChoise[1]++;
         }
-       
+
         private void ClearDoors()
         {
             doorsList.Clear();
@@ -110,6 +116,7 @@ namespace Lab_4
         //Генерация графика
         private void GenerateChart(int[] pList, string title, Chart chart)
         {
+            ClearChart(chart);
             chart.Titles.Add(title);
             chart.Palette = ChartColorPalette.Berry;
             for (var i = 0; i < pList.Length; i++)
@@ -117,6 +124,14 @@ namespace Lab_4
                 var series = chart.Series.Add(chartSeriesNames[i]);
                 series.Points.Add(pList[i]);
             }
+        }
+
+        private static void ClearChart(Chart chart)
+        {
+            foreach (var series in chart.Series)
+                series.Points.Clear();
+            chart.Series.Clear();
+            chart.Titles.Clear();
         }
 
         private void button1_Click(object sender, EventArgs e)
