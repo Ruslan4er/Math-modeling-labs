@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Lab_1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        static Random rnd = new Random();
+
+        int firstNumber = rnd.Next(1000, 9999);
+        private int secondNumber = 2;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Methods method = new Methods();
+            firstNumber = method.MidSquareMethod(firstNumber);
+            MessageBox.Show(firstNumber.ToString());
+        }
+
+        private void SecondMethodButton_Click(object sender, EventArgs e)
+        {
+            Methods method = new Methods();
+            int x = Convert.ToInt32(InputX0TextBox.Text);
+            method.MultiplicationMethod(x);
+        }
+    }
+}

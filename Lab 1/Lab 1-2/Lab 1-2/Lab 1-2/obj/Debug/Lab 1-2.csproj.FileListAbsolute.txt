@@ -1,0 +1,10 @@
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe.config
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.exe
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\bin\Debug\Lab 1-2.pdb
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csprojResolveAssemblyReference.cache
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab_1_2.Form1.resources
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab_1_2.Properties.Resources.resources
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csproj.GenerateResource.Cache
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.csproj.CoreCompileInputs.cache
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.exe
+E:\БЭКАП РУСЛАНА\BSUIR\4 course\7 семестр с лабой по МатМод\ММод\Лабы\Lab 1-2\Lab 1-2\Lab 1-2\obj\Debug\Lab 1-2.pdb
