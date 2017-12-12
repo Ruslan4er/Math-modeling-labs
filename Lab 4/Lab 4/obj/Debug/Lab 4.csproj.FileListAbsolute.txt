@@ -1,0 +1,11 @@
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab_4.TheMontiHallParadoxForm.resources
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.Cache
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+D:\BSUIR\4 course\7 семестр\ММод\Лабы\Lab 4\Lab 4\Lab 4\obj\Debug\Lab_4.StatisticForm.resources
